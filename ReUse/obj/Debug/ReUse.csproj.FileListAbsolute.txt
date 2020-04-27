@@ -1,0 +1,29 @@
+C:\Users\work1\source\repos\ReUse\ReUse\bin\Debug\ReUse.dll
+C:\Users\work1\source\repos\ReUse\ReUse\bin\Debug\ReUse.pdb
+C:\Users\work1\source\repos\ReUse\ReUse\obj\Debug\ReUse.csprojAssemblyReference.cache
+C:\Users\work1\source\repos\ReUse\ReUse\obj\Debug\ReUse.csproj.CoreCompileInputs.cache
+C:\Users\work1\source\repos\ReUse\ReUse\obj\Debug\ReUse.dll
+C:\Users\work1\source\repos\ReUse\ReUse\obj\Debug\ReUse.pdb
+C:\Users\work1\source\repos\ReUse new\ReUse\bin\Debug\ReUse.dll
+C:\Users\work1\source\repos\ReUse new\ReUse\bin\Debug\ReUse.pdb
+C:\Users\work1\source\repos\ReUse new\ReUse\obj\Debug\ReUse.dll
+C:\Users\work1\source\repos\ReUse new\ReUse\obj\Debug\ReUse.pdb
+C:\Users\work1\Desktop\TDCPackage\TDC191010\TDC190926最新\ReUse\bin\Debug\ReUse.dll
+C:\Users\work1\Desktop\TDCPackage\TDC191010\TDC190926最新\ReUse\bin\Debug\ReUse.pdb
+C:\Users\work1\Desktop\TDCPackage\TDC191010\TDC190926最新\ReUse\obj\Debug\ReUse.csprojAssemblyReference.cache
+C:\Users\work1\Desktop\TDCPackage\TDC191010\TDC190926最新\ReUse\obj\Debug\ReUse.dll
+C:\Users\work1\Desktop\TDCPackage\TDC191010\TDC190926最新\ReUse\obj\Debug\ReUse.pdb
+C:\Users\work1\Desktop\TDCPackage\TDC191031\TDC191031\ReUse\bin\Debug\ReUse.dll
+C:\Users\work1\Desktop\TDCPackage\TDC191031\TDC191031\ReUse\bin\Debug\ReUse.pdb
+C:\Users\work1\Desktop\TDCPackage\TDC191031\TDC191031\ReUse\obj\Debug\ReUse.dll
+C:\Users\work1\Desktop\TDCPackage\TDC191031\TDC191031\ReUse\obj\Debug\ReUse.pdb
+C:\Users\work1\Desktop\TDCPackage\TDC191106\TDC191106\ReUse\bin\Debug\ReUse.dll
+C:\Users\work1\Desktop\TDCPackage\TDC191106\TDC191106\ReUse\bin\Debug\ReUse.pdb
+C:\Users\work1\Desktop\TDCPackage\TDC191106\TDC191106\ReUse\obj\Debug\ReUse.dll
+C:\Users\work1\Desktop\TDCPackage\TDC191106\TDC191106\ReUse\obj\Debug\ReUse.pdb
+C:\Users\work1\Desktop\TDCPackage\TDC191106\TDC191106\ReUse\obj\Debug\ReUse.csprojAssemblyReference.cache
+C:\Users\work1\source\repos\FF Management\ReUse\bin\Debug\ReUse.dll
+C:\Users\work1\source\repos\FF Management\ReUse\bin\Debug\ReUse.pdb
+C:\Users\work1\source\repos\FF Management\ReUse\obj\Debug\ReUse.dll
+C:\Users\work1\source\repos\FF Management\ReUse\obj\Debug\ReUse.pdb
+C:\Users\work1\source\repos\FF Management\ReUse\obj\Debug\ReUse.csprojAssemblyReference.cache

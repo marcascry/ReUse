@@ -1,0 +1,4 @@
+C:\Users\work1\Desktop\TDCPackage\TDC191031\TDC191031\ReUse\bin\Release\ReUse.dll
+C:\Users\work1\Desktop\TDCPackage\TDC191031\TDC191031\ReUse\bin\Release\ReUse.pdb
+C:\Users\work1\Desktop\TDCPackage\TDC191031\TDC191031\ReUse\obj\Release\ReUse.dll
+C:\Users\work1\Desktop\TDCPackage\TDC191031\TDC191031\ReUse\obj\Release\ReUse.pdb
